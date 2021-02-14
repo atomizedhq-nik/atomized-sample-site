@@ -60,7 +60,7 @@ function App() {
                   <Versions />
                 </div>
                 <div>
-                  <div className="feature-title">Verisioned</div>
+                  <div className="feature-title">Versioned</div>
                   <p>
                     Every change is tracked and versioned. You can revert
                     changes easily in several clicks.
